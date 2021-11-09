@@ -30,6 +30,10 @@ I come from  nan`ao, a beautiful island
 ![Webpack](https://img.shields.io/badge/-Webpack-darkblue?logo=webpack&logoColor=white)
 
 </p>
+  
+## Analysis 📈
+
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-rick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
