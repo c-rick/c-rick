@@ -33,7 +33,7 @@ I come from  nan`ao, a beautiful island
   
 ## Analysis 📈
 
-[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-rick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-rick)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
