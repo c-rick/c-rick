@@ -1,10 +1,18 @@
 <div align=center>
+  
 <img alt="Yiyang Sun" src="https://avatars.githubusercontent.com/u/17995300?s=400&u=6441ff85fab51cbcaaae61adf76d84b77ca98367&v=4" width=100 style="border-radius:50%" />
+
 # Hi this is c-rick 👋
-</div>
+
+  
 <p>
+
 [![Github Blog](https://img.shields.io/badge/-blog-yellowgreen)](https://c-rick.github.io/)
+
 </p>
+
+</div>
+
 <!--
 **c-rick/c-rick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
