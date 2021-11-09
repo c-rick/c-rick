@@ -7,6 +7,7 @@
 <p>
 
 [![Github Blog](https://img.shields.io/badge/c--rick-blog-yellowgreen?logo=github)](https://c-rick.github.io/)
+![Profile View Counter](https://komarev.com/ghpvc/?username=c-rick&color=blue)
 
 </p>
 
@@ -31,6 +32,7 @@ I come from  nan`ao, a beautiful island
 </p>
 
 </div>
+
 
 <!--
 **c-rick/c-rick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
