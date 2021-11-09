@@ -7,7 +7,7 @@
   
 <p>
 
-[![Github Blog](https://img.shields.io/badge/-blog-yellowgreen)](https://c-rick.github.io/)
+[![Github Blog](https://img.shields.io/badge/c--rick-blog-yellowgreen)](https://c-rick.github.io/)
 
 </p>
 
