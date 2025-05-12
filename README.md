@@ -1,6 +1,5 @@
 <div align=center>
   
-<img alt="c-rick" src="https://avatars.githubusercontent.com/u/17995300?s=400&u=6441ff85fab51cbcaaae61adf76d84b77ca98367&v=4" width=100 style="border-radius:50%" />
 
 # Hi this is c-rick 👋
 
