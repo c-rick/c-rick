@@ -15,8 +15,9 @@
 ### Location 🏠
 I come from  nan`ao, a beautiful island
 
-<img alt="nanao" src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg1.doubanio.com%2Fview%2Fphoto%2Fl%2Fpublic%2Fp2546248717.jpg&refer=http%3A%2F%2Fimg1.doubanio.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1639020937&t=3a4c9d638dd38b00ccea9c69e918afb9" style="border-radius:50%;width: 400px" />
- 
+![微信图片_2025-07-16_101903_704](https://github.com/user-attachments/assets/f571faa7-b1a3-417a-ba0e-4106780f9ecc)
+
+You can find me when traveling to Nanao, one-stop service
 
 ### Technology 🛠
 <p>
