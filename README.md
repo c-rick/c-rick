@@ -15,7 +15,8 @@
 ### Location 🏠
 I come from  nan`ao, a beautiful island
 
-![微信图片_2025-07-16_101903_704](https://github.com/user-attachments/assets/f571faa7-b1a3-417a-ba0e-4106780f9ecc)
+<img width="538" height="674" alt="image" src="https://github.com/user-attachments/assets/a9215e26-f6da-4289-847d-029b725af11b" />
+
 
 You can find me when traveling to Nanao, one-stop service
 
